@@ -1,0 +1,38 @@
+body {
+    background-color: #000000;
+}
+
+.center-container {
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+    height: 100vh;
+    font-family: Poppins, sans-serif;
+}
+
+.center-text {
+    padding-top: 50px;
+    text-align: center;
+    color: white;
+}
+
+.highlight {
+    position: relative;
+    background-color: #06ca7fd0;
+    color: white;
+    padding: 0 5px;
+    border-radius: 3px;
+    display: inline-block;
+}
+
+#mybutton
+{
+    position: relative;
+    background-color: #06ca7fd0;
+    color: white;
+    padding: 10 10px;
+    border-radius: 6px;
+    display: inline-block;
+}
+
+
